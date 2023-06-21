@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    width: 100vw;
+    box-sizing: border-box;
+    }
+
+#parentDiv{
+    background-color: gray;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+}
+/*div>div{
+    width: 100px;
+    height: 100px;
+    background-color: tomato;
+    margin: 10px;
+}*/
+div>div{
+    width: 100px;
+    height: 100px;
+    background-color: tomato;
+    margin: 10px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    padding-left: 10px;
+    border-radius: 100px;
+
+
+}
+h1{
+    font-size: 16px;
+    color: wheat;
+}
+
+.circleContainer{
+    height: 400px;
+    width: 400px;
+    background-color: beige;
+}
+.
